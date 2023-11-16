@@ -5,7 +5,7 @@
 1. Clone the project
 
 ```sh
-git clone https://github.com/pixyj/mb-async-live-review-1 async_live_review
+git clone https://github.com/Praful-Jain/async_live_review
 ```
 
 2. cd to the `async_live_review` directory
